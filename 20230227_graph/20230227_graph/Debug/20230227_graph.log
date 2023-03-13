@@ -1,0 +1,102 @@
+﻿  graph.cpp
+D:\比特\代码\20230227_graph\20230227_graph\unionset.h(53,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\unionset.h(62,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\unionset.h(67,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\unionset.h(80,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(707,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(738,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(996,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(995): message : 在编译 类 模板 成员函数“void ns_link_graph::Graph<std::string,int,false>::print(void)”时
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(1020): message : 查看对正在编译的函数 模板 实例化“void ns_link_graph::Graph<std::string,int,false>::print(void)”的引用
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(1016): message : 查看对正在编译的 类 模板 实例化“ns_link_graph::Graph<std::string,int,false>”的引用
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(917,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(914): message : 在编译 类 模板 成员函数“ns_link_graph::Graph<std::string,int,false>::Graph(const V *,size_t)”时
+          with
+          [
+              V=std::string
+          ]
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(1016): message : 查看对正在编译的函数 模板 实例化“ns_link_graph::Graph<std::string,int,false>::Graph(const V *,size_t)”的引用
+          with
+          [
+              V=std::string
+          ]
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(924,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(592,26): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(580): message : 在编译 类 模板 成员函数“void ns_graph::Graph<char,int,2147483647,true>::FloydWarshall(std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)”时
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(837): message : 查看对正在编译的函数 模板 实例化“void ns_graph::Graph<char,int,2147483647,true>::FloydWarshall(std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)”的引用
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(722): message : 查看对正在编译的 类 模板 实例化“ns_graph::Graph<char,int,2147483647,true>”的引用
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(594,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(613,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(615,28): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(609,8): warning C4101: “k”: 未引用的局部变量
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(363,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(361): message : 在编译 类 模板 成员函数“void ns_graph::Graph<char,int,2147483647,true>::PathPrint(const V &,std::vector<int,std::allocator<int>> &,std::vector<int,std::allocator<int>> &)”时
+          with
+          [
+              V=char
+          ]
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(743): message : 查看对正在编译的函数 模板 实例化“void ns_graph::Graph<char,int,2147483647,true>::PathPrint(const V &,std::vector<int,std::allocator<int>> &,std::vector<int,std::allocator<int>> &)”的引用
+          with
+          [
+              V=char
+          ]
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(331,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(320): message : 在编译 类 模板 成员函数“void ns_graph::Graph<char,int,2147483647,true>::Dijkstra(const V &,std::vector<int,std::allocator<int>> &,std::vector<int,std::allocator<int>> &)”时
+          with
+          [
+              V=char
+          ]
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(742): message : 查看对正在编译的函数 模板 实例化“void ns_graph::Graph<char,int,2147483647,true>::Dijkstra(const V &,std::vector<int,std::allocator<int>> &,std::vector<int,std::allocator<int>> &)”的引用
+          with
+          [
+              V=char
+          ]
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(335,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(344,28): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(28,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(25): message : 在编译 类 模板 成员函数“ns_graph::Graph<char,int,2147483647,true>::Graph(const V *,size_t)”时
+          with
+          [
+              V=char
+          ]
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(722): message : 查看对正在编译的函数 模板 实例化“ns_graph::Graph<char,int,2147483647,true>::Graph(const V *,size_t)”的引用
+          with
+          [
+              V=char
+          ]
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(634,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(633): message : 在编译 类 模板 成员函数“void ns_graph::Graph<char,int,2147483647,false>::print(void)”时
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(663): message : 查看对正在编译的函数 模板 实例化“void ns_graph::Graph<char,int,2147483647,false>::print(void)”的引用
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(654): message : 查看对正在编译的 类 模板 实例化“ns_graph::Graph<char,int,2147483647,false>”的引用
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(636,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(220,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(200): message : 在编译 类 模板 成员函数“W ns_graph::Graph<char,W,2147483647,false>::Prim(ns_graph::Graph<char,W,2147483647,false> &,const V &)”时
+          with
+          [
+              W=int,
+              V=char
+          ]
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(711): message : 查看对正在编译的函数 模板 实例化“W ns_graph::Graph<char,W,2147483647,false>::Prim(ns_graph::Graph<char,W,2147483647,false> &,const V &)”的引用
+          with
+          [
+              W=int,
+              V=char
+          ]
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(224,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(250,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(94,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(77): message : 在编译 类 模板 成员函数“void ns_graph::Graph<char,int,2147483647,false>::BFS(const V &)”时
+          with
+          [
+              V=char
+          ]
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(712): message : 查看对正在编译的函数 模板 实例化“void ns_graph::Graph<char,int,2147483647,false>::BFS(const V &)”的引用
+          with
+          [
+              V=char
+          ]
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(106,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(118,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(115): message : 在编译 类 模板 成员函数“void ns_graph::Graph<std::string,int,2147483647,false>::_DFS(int,std::vector<bool,std::allocator<bool>> &)”时
+D:\比特\代码\20230227_graph\20230227_graph\graph.h(133): message : 查看对正在编译的函数 模板 实例化“void ns_graph::Graph<std::string,int,2147483647,false>::_DFS(int,std::vector<bool,std::allocator<bool>> &)”的引用
+  20230227_graph.vcxproj -> D:\比特\代码\20230227_graph\Debug\20230227_graph.exe
